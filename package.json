@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "date-fns": "^2.9.0",
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "gridsome-plugin-tailwindcss": "^2.2.36",
+    "prettier": "^1.19.1"
+  }
+}
